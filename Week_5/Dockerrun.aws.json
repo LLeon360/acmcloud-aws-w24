@@ -1,7 +1,7 @@
 {
     "AWSEBDockerrunVersion": "1",
     "Image": {
-      "Name": "[ACCOUNT ID].dkr.ecr.us-east-1.amazonaws.com/[IMAGE REPO NAME]:latest",
+      "Name": "211125732843.dkr.ecr.us-west-1.amazonaws.com/acm-cloud-wk5:latest",
       "Update": "true"
     },
     "Ports": [
