@@ -2,8 +2,16 @@
     "username": {
       "S": "ssub"
     },
+<<<<<<< Updated upstream
     "bio": {
       "S": "This is my bio! I'm an ACM Cloud Officer!"
+=======
+    "password": {
+      "S": "1234"
+    },
+    "name": {
+      "S": "Satyen Subramaniam"
+>>>>>>> Stashed changes
     },
     "details": {
       "M": {
@@ -19,10 +27,15 @@
         }
       ]
     },
+<<<<<<< Updated upstream
     "name": {
       "S": "Satyen Subramaniam"
     },
     "password": {
       "S": "1234"
+=======
+    "bio": {
+      "S": "This is my bio! I'm an ACM Cloud Officer!"
+>>>>>>> Stashed changes
     }
 }
